@@ -7,7 +7,7 @@
 
 - 📫 How to reach me - **nikita.klimchuck@gmail.com**
 
-- 📄 Know about my experiences - [https://app.enhancv.com/share/37cd049e/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/37cd049e/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 📄 Know about my experiences - <a href="https://app.enhancv.com/share/37cd049e/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">My CV</a>
 
 - ⚡ Fun fact - **I'm a self-proclaimed peanut butter connoisseur**
 
