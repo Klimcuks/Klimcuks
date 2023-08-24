@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Nikita!</h1>
-<h3 align="center">A passionate frontend developer from Latvia</h3>
+<h3 align="center">A passionate front-end developer based in Manchester, UK </h3>
+
+- 👨‍🎓 Recent graduate from a full-time Front-End Development Course of <a href="https://boolean.co.uk/?utm_source=google&utm_campaign=cl1_search_brand&utm_medium=cpc&utm_content=boolean&gclid=CjwKCAjw0dKXBhBPEiwA2bmObWUv639baHQPEgjyu_XPc18sX1ytcIJklv4kbAUs9UsdKPHX8JokGxoCbZEQAvD_BwE">Boolean UK</a>
 
 - 🌱 I’m currently learning **TypeScript**
 
