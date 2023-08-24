@@ -7,13 +7,13 @@
 
 - 📫 How to reach me - **nikita.klimchuck@gmail.com**
 
-- 📄 Know about my experiences - <a href="https://app.enhancv.com/share/37cd049e/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">My CV</a>
+- 📄 Know about my experiences - <a href="https://app.enhancv.com/share/37cd049e/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic" target="blank">My CV</a>
 
 - ⚡ Fun fact - **I'm a self-proclaimed peanut butter connoisseur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/nikita-klimchuks-515ab5240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nikita-klimchuks-515ab5240" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/nikita-klimchuks-515ab5240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-klimchuks-515ab5240" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
