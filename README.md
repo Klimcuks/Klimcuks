@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences - <a href="https://app.enhancv.com/share/526d0fb2/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic">My CV</a>
 
-- ⚡ Fun fact - **I'm a self-proclaimed peanut butter connoisseur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
