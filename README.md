@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nikita!</h1>
-<h3 align="center">Aspiring QA Tester | Tech Support Specialist | Front-End Bootcamp Grad | Riga, Latvia </h3>
+<h3 align="center">Aspiring QA Tester | Tech Support Team Coach | Front-End Bootcamp Grad | Riga, Latvia </h3>
 
  🔧 Tech support team coach transitioning to QA. From learning responsive design at <a href="https://boolean.co.uk" target="_blank">Boolean</a> front-end bootcamp in Manchester, UK, to troubleshooting security systems at <a href="https://www.adt.com/" target="_blank">ADT</a>, I'm passionate about software quality. Self-employment as a personal trainer instilled the discipline to follow through on detailed, goal-oriented tasks. Open to QA collabs and feedback—let's connect!
  
