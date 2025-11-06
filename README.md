@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nikita!</h1>
-<h3 align="center">Aspiring QA Tester | Tech Support Team Coach | Front-End Bootcamp Grad | Riga, Latvia </h3>
+<h3 align="center">Aspiring QA tester | Tech support team coach | Front-end bootcamp grad | Riga, Latvia </h3>
 
- 🔧 Tech support team coach transitioning to QA. From learning responsive design at <a href="https://boolean.co.uk" target="_blank">Boolean</a> front-end bootcamp in Manchester, UK, to troubleshooting security systems at <a href="https://www.adt.com/" target="_blank">ADT</a>, I'm passionate about software quality. Self-employment as a personal trainer instilled the discipline to follow through on detailed, goal-oriented tasks. Open to QA collabs and feedback—let's connect!
+ 🔧 Tech support team coach transitioning to QA. From learning responsive design at <a href="https://boolean.co.uk" target="_blank">Boolean</a> front-end bootcamp in Manchester, UK, to troubleshooting security systems at <a href="https://www.adt.com/" target="_blank">ADT</a>, I've gotten hooked on making software rock-solid. As a self-employed personal trainer, I learned to break down goals into actionable steps and adjust on the fly, skills that translate directly to crafting effective test cases in QA. Open to QA collabs and feedback - let's connect!
  
  🌱 I’m currently learning <a href="https://www.selenium.dev/" target="_blank"><img src="https://cdn.simpleicons.org/selenium" alt="Selenium" width="24" height="24"></a> for web automation testing, <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.simpleicons.org/postman" alt="Postman" width="24" height="24"></a> for APIs, <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="24" height="24"></a> for data validation.
 
