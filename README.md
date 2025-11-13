@@ -17,7 +17,6 @@
 </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<div style="a { text-decoration: none !important; border: none !important; }">
   <p style="text-align: left; white-space: nowrap;">
     <a href="https://www.testrail.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 8px;">
       <img src="https://cdn.simpleicons.org/testrail" alt="TestRail" width="40" height="40">
@@ -50,4 +49,3 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40">
     </a>
   </p>
-</div>
